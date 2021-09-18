@@ -1,0 +1,4 @@
+# DCGAN
+DCGAN将Ian GoodFellow提出的GAN进行了部分修改，将多层感知机修改为了神经网络
+
+此repo用于reproduce这篇文章
